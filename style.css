@@ -1,0 +1,59 @@
+/*css pour la defintion du covid   */
+
+#image{
+  
+  background-size: cover;
+  background-repeat: no-repeat; 
+  border: 1px solid white;
+  margin-left: 300px;
+  
+}
+
+.par1
+{
+	 border: 1px solid white;
+	 margin-left: 20px;
+	 padding-left: 80px;
+}
+
+.par2
+{
+	border: 1px solid white;
+	padding-right: 100px;
+	padding-left: 80px;
+
+}
+
+/*css pour les symptomes du covid  */
+
+.symp
+{
+	border: 1px solid white;
+	margin-left: 30px;
+
+}
+
+/*css pour une image de symptomes du covid  */
+
+
+#imgsymp
+{
+  	border: 1px solid white;
+  	margin-left: 100px;
+}
+
+/*css pour les mesures de protection */
+
+.mesr
+{
+	border: 1px solid white;
+	margin-left: 30px;
+}
+
+/*css pour une image de mesures de protection */
+
+#imgprt
+{
+	border: 1px solid white;
+  	margin-left: 200px;
+}
